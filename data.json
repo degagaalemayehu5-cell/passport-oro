@@ -1,0 +1,349 @@
+{
+  "lastUpdated": "01:34 PM EAT, September 30, 2025",
+  "passports": {
+    "Ethiopia": {
+      "mobilityScore": 50,
+      "requirements": {
+        "US": "Visa required",
+        "UK": "Visa required",
+        "India": "Visa required",
+        "Singapore": "Visa required",
+        "Brazil": "Visa required",
+        "Saudi": "Visa on arrival",
+        "UAE": "Visa on arrival",
+        "Ethiopia": "Not required"
+      },
+      "banks": [
+        {
+          "name": "Commercial Bank of Ethiopia",
+          "description": "Commercial Bank of Ethiopia / Baanki daldala Ethiopia: Commercial Bank of Ethiopia account for passport fees",
+          "accountNumber": "1000464654252",
+          "currency": "ETB"
+        },
+        {
+          "name": "Awash Bank",
+          "description": "Awash Bank: Awash Bank account for passport fees",
+          "accountNumber": "01320847865000",
+          "currency": "ETB"
+        },
+        {
+          "name": "Abyssinia Bank",
+          "description": "Abyssinia Bank: Abyssinia Bank account for passport fees",
+          "accountNumber": "9876543210123",
+          "currency": "ETB"
+        }
+      ],
+      "fees": {
+        "application": {
+          "amount": 4000,
+          "currency": "ETB"
+        },
+        "expediting": {
+          "amount": 6000,
+          "currency": "ETB"
+        }
+      }
+    },
+    "US": {
+      "mobilityScore": 185,
+      "requirements": {
+        "Ethiopia": "Visa required",
+        "UK": "Visa waiver",
+        "India": "Visa required",
+        "Singapore": "Visa waiver",
+        "Brazil": "Visa required",
+        "Saudi": "Visa required",
+        "UAE": "Visa waiver",
+        "US": "Not required"
+      },
+      "banks": [
+        {
+          "name": "Commercial Bank of Ethiopia",
+          "description": "Commercial Bank of Ethiopia / Baanki daldala Ethiopia: Commercial Bank of Ethiopia account for passport fees",
+          "accountNumber": "1000464654252",
+          "currency": "ETB"
+        },
+        {
+          "name": "Awash Bank",
+          "description": "Awash Bank: Awash Bank account for passport fees",
+          "accountNumber": "01320847865000",
+          "currency": "ETB"
+        },
+        {
+          "name": "Abyssinia Bank",
+          "description": "Abyssinia Bank: Abyssinia Bank account for passport fees",
+          "accountNumber": "9876543210123",
+          "currency": "ETB"
+        }
+      ],
+      "fees": {
+        "application": {
+          "amount": 4000,
+          "currency": "ETB"
+        },
+        "expediting": {
+          "amount": 6000,
+          "currency": "ETB"
+        }
+      }
+    },
+    "UK": {
+      "mobilityScore": 190,
+      "requirements": {
+        "Ethiopia": "Visa required",
+        "US": "Visa waiver",
+        "India": "Visa required",
+        "Singapore": "Visa waiver",
+        "Brazil": "Visa required",
+        "Saudi": "Visa required",
+        "UAE": "Visa waiver",
+        "UK": "Not required"
+      },
+      "banks": [
+        {
+          "name": "Commercial Bank of Ethiopia",
+          "description": "Commercial Bank of Ethiopia / Baanki daldala Ethiopia: Commercial Bank of Ethiopia account for passport fees",
+          "accountNumber": "1000464654252",
+          "currency": "ETB"
+        },
+        {
+          "name": "Awash Bank",
+          "description": "Awash Bank: Awash Bank account for passport fees",
+          "accountNumber": "01320847865000",
+          "currency": "ETB"
+        },
+        {
+          "name": "Abyssinia Bank",
+          "description": "Abyssinia Bank: Abyssinia Bank account for passport fees",
+          "accountNumber": "9876543210123",
+          "currency": "ETB"
+        }
+      ],
+      "fees": {
+        "application": {
+          "amount": 4000,
+          "currency": "ETB"
+        },
+        "expediting": {
+          "amount": 6000,
+          "currency": "ETB"
+        }
+      }
+    },
+    "India": {
+      "mobilityScore": 58,
+      "requirements": {
+        "Ethiopia": "Visa required",
+        "US": "Visa required",
+        "UK": "Visa required",
+        "Singapore": "Visa required",
+        "Brazil": "Visa required",
+        "Saudi": "Visa on arrival",
+        "UAE": "Visa on arrival",
+        "India": "Not required"
+      },
+      "banks": [
+        {
+          "name": "Commercial Bank of Ethiopia",
+          "description": "Commercial Bank of Ethiopia / Baanki daldala Ethiopia: Commercial Bank of Ethiopia account for passport fees",
+          "accountNumber": "1000464654252",
+          "currency": "ETB"
+        },
+        {
+          "name": "Awash Bank",
+          "description": "Awash Bank: Awash Bank account for passport fees",
+          "accountNumber": "01320847865000",
+          "currency": "ETB"
+        },
+        {
+          "name": "Abyssinia Bank",
+          "description": "Abyssinia Bank: Abyssinia Bank account for passport fees",
+          "accountNumber": "9876543210123",
+          "currency": "ETB"
+        }
+      ],
+      "fees": {
+        "application": {
+          "amount": 4000,
+          "currency": "ETB"
+        },
+        "expediting": {
+          "amount": 6000,
+          "currency": "ETB"
+        }
+      }
+    },
+    "Singapore": {
+      "mobilityScore": 192,
+      "requirements": {
+        "Ethiopia": "Visa required",
+        "US": "Visa waiver",
+        "UK": "Visa waiver",
+        "India": "Visa required",
+        "Brazil": "Visa required",
+        "Saudi": "Visa required",
+        "UAE": "Visa waiver",
+        "Singapore": "Not required"
+      },
+      "banks": [
+        {
+          "name": "Commercial Bank of Ethiopia",
+          "description": "Commercial Bank of Ethiopia / Baanki daldala Ethiopia: Commercial Bank of Ethiopia account for passport fees",
+          "accountNumber": "1000464654252",
+          "currency": "ETB"
+        },
+        {
+          "name": "Awash Bank",
+          "description": "Awash Bank: Awash Bank account for passport fees",
+          "accountNumber": "01320847865000",
+          "currency": "ETB"
+        },
+        {
+          "name": "Abyssinia Bank",
+          "description": "Abyssinia Bank: Abyssinia Bank account for passport fees",
+          "accountNumber": "9876543210123",
+          "currency": "ETB"
+        }
+      ],
+      "fees": {
+        "application": {
+          "amount": 4000,
+          "currency": "ETB"
+        },
+        "expediting": {
+          "amount": 6000,
+          "currency": "ETB"
+        }
+      }
+    },
+    "Brazil": {
+      "mobilityScore": 171,
+      "requirements": {
+        "Ethiopia": "Visa required",
+        "US": "Visa required",
+        "UK": "Visa required",
+        "India": "Visa required",
+        "Singapore": "Visa required",
+        "Saudi": "Visa required",
+        "UAE": "Visa required",
+        "Brazil": "Not required"
+      },
+      "banks": [
+        {
+          "name": "Commercial Bank of Ethiopia",
+          "description": "Commercial Bank of Ethiopia / Baanki daldala Ethiopia: Commercial Bank of Ethiopia account for passport fees",
+          "accountNumber": "1000464654252",
+          "currency": "ETB"
+        },
+        {
+          "name": "Awash Bank",
+          "description": "Awash Bank: Awash Bank account for passport fees",
+          "accountNumber": "01320847865000",
+          "currency": "ETB"
+        },
+        {
+          "name": "Abyssinia Bank",
+          "description": "Abyssinia Bank: Abyssinia Bank account for passport fees",
+          "accountNumber": "9876543210123",
+          "currency": "ETB"
+        }
+      ],
+      "fees": {
+        "application": {
+          "amount": 4000,
+          "currency": "ETB"
+        },
+        "expediting": {
+          "amount": 6000,
+          "currency": "ETB"
+        }
+      }
+    },
+    "Saudi": {
+      "mobilityScore": 78,
+      "requirements": {
+        "Ethiopia": "Visa on arrival",
+        "US": "Visa required",
+        "UK": "Visa required",
+        "India": "Visa on arrival",
+        "Singapore": "Visa required",
+        "Brazil": "Visa required",
+        "UAE": "Visa on arrival",
+        "Saudi": "Not required"
+      },
+      "banks": [
+        {
+          "name": "Commercial Bank of Ethiopia",
+          "description": "Commercial Bank of Ethiopia / Baanki daldala Ethiopia: Commercial Bank of Ethiopia account for passport fees",
+          "accountNumber": "1000464654252",
+          "currency": "ETB"
+        },
+        {
+          "name": "Awash Bank",
+          "description": "Awash Bank: Awash Bank account for passport fees",
+          "accountNumber": "01320847865000",
+          "currency": "ETB"
+        },
+        {
+          "name": "Abyssinia Bank",
+          "description": "Abyssinia Bank: Abyssinia Bank account for passport fees",
+          "accountNumber": "9876543210123",
+          "currency": "ETB"
+        }
+      ],
+      "fees": {
+        "application": {
+          "amount": 4000,
+          "currency": "ETB"
+        },
+        "expediting": {
+          "amount": 6000,
+          "currency": "ETB"
+        }
+      }
+    },
+    "UAE": {
+      "mobilityScore": 180,
+      "requirements": {
+        "Ethiopia": "Visa on arrival",
+        "US": "Visa waiver",
+        "UK": "Visa waiver",
+        "India": "Visa on arrival",
+        "Singapore": "Visa waiver",
+        "Brazil": "Visa required",
+        "Saudi": "Visa on arrival",
+        "UAE": "Not required"
+      },
+      "banks": [
+        {
+          "name": "Commercial Bank of Ethiopia",
+          "description": "Commercial Bank of Ethiopia / Baanki daldala Ethiopia: Commercial Bank of Ethiopia account for passport fees",
+          "accountNumber": "1000464654252",
+          "currency": "ETB"
+        },
+        {
+          "name": "Awash Bank",
+          "description": "Awash Bank: Awash Bank account for passport fees",
+          "accountNumber": "01320847865000",
+          "currency": "ETB"
+        },
+        {
+          "name": "Abyssinia Bank",
+          "description": "Abyssinia Bank: Abyssinia Bank account for passport fees",
+          "accountNumber": "9876543210123",
+          "currency": "ETB"
+        }
+      ],
+      "fees": {
+        "application": {
+          "amount": 4000,
+          "currency": "ETB"
+        },
+        "expediting": {
+          "amount": 6000,
+          "currency": "ETB"
+        }
+      }
+    }
+  }
+}
